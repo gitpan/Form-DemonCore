@@ -1,0 +1,13 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Form/DemonCore.pm
+lib/Form/DemonCore/Field.pm
+t/00-load.t
+t/01-simple.t
+t/release-pod-syntax.t
