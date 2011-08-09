@@ -1,7 +1,7 @@
 ---
 abstract: 'The demon core of form managements'
 author:
-  - 'Torsten Raudssus <torsten@raudssus.de>'
+  - 'Torsten Raudssus <torsten@raudss.us> L<http://raudss.us/>'
 build_requires:
   Test::More: 0.96
   Test::Simple: 0.98
@@ -19,7 +19,7 @@ requires:
 resources:
   homepage: http://github.com/Getty/p5-form-demoncore
   repository: http://github.com/Getty/p5-form-demoncore
-version: 0.001
+version: 0.100
 x_Dist_Zilla:
   plugins:
     -

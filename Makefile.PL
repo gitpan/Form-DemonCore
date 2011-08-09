@@ -10,7 +10,7 @@ use ExtUtils::MakeMaker 6.30;
 
 my %WriteMakefileArgs = (
   'ABSTRACT' => 'The demon core of form managements',
-  'AUTHOR' => 'Torsten Raudssus <torsten@raudssus.de>',
+  'AUTHOR' => 'Torsten Raudssus <torsten@raudss.us> L<http://raudss.us/>',
   'BUILD_REQUIRES' => {
     'Test::More' => '0.96',
     'Test::Simple' => '0.98'
@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
   'PREREQ_PM' => {
     'Moose' => '2.0202'
   },
-  'VERSION' => '0.001',
+  'VERSION' => '0.100',
   'test' => {
     'TESTS' => 't/*.t'
   }

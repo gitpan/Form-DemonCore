@@ -3,7 +3,7 @@ BEGIN {
   $Form::DemonCore::Field::AUTHORITY = 'cpan:GETTY';
 }
 BEGIN {
-  $Form::DemonCore::Field::VERSION = '0.001';
+  $Form::DemonCore::Field::VERSION = '0.100';
 }
 
 use Moose;
@@ -189,15 +189,15 @@ Form::DemonCore::Field
 
 =head1 VERSION
 
-version 0.001
+version 0.100
 
 =head1 AUTHOR
 
-Torsten Raudssus <torsten@raudssus.de>
+Torsten Raudssus <torsten@raudss.us> L<http://raudss.us/>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Torsten Raudssus.
+This software is copyright (c) 2011 by Raudssus Social Software.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
